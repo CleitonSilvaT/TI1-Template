@@ -452,6 +452,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+> - [Teste de Compatibilidade com Dispositivos Móveis](https://search.google.com/test/mobile-friendly )
+> - [PageSpeed Insights](https://pagespeed.web.dev/ )
+> - [Site Navigability Analyzer](https://datayze.com/site-navigability-analyzer )
+> - [Online Broken Link Checker](https://www.brokenlinkcheck.com/ )
+> - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/ )
+
+
 
 ## Registros de Testes
 
